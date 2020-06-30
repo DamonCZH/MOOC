@@ -30,7 +30,7 @@
 - 优化器为rmsprop，学习率默认，损失函数使用了交叉熵categorical_crossentropy
 - 最终训练结果为训练集准确率82.0%，测试集准确率71.6%
 
-![](\1.png)
+![Alt text](https://github.com/DamonCZH/MOOC/blob/master/1.png)
 
 ##### 2.VGG
 
@@ -38,7 +38,7 @@
 - 优化器等与MLP的配置一致
 - 最终训练结果为训练集准确率81.7%，测试集准确率68.8%
 
-![](\2.png)
+![Alt text](https://github.com/DamonCZH/MOOC/blob/master/2.png)
 
 ### 五、实验总结
 
